@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.btn-small{
+  background-color: #8E24AA !important;
+  margin: 0px 10px;
+}
+
+.alert-danger{
+color: white;
+background-color: #D50000;
+margin:10px;
+padding: 5px 20px;
+font-weight: bold;
+}
+
+.alert-success{
+  color: white;
+background-color: #32C24D;
+margin:10px;
+padding: 5px 20px;
+font-weight: bold;
+}
+
+.btn{
+  background-color: #8E24AA !important;
+}
+
+#blog-box-2{
+  padding: 20px 20px;
+}
